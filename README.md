@@ -1,1 +1,1 @@
-Dando sequûencia aos meus estudos em Java, fiz esse programa que registra funcionários e seus respectivos salários e acrescenta uma dada porcentagem ao salário de um dos funcionários. Programa criado usando orientação a objeto e ArrayList.
+Dando sequência aos meus estudos em Java, fiz esse programa que registra funcionários e seus respectivos salários e acrescenta uma dada porcentagem ao salário de um dos funcionários. Programa criado usando orientação a objeto e ArrayList.
